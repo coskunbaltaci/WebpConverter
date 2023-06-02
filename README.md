@@ -1,6 +1,6 @@
 # WebpConverter
 
-This repo provides to convert all images to webp format.   
+This repo provides to convert all images to webp format. This script check the current folders and subfolders. Webp files converted where the same path and the same name.
 
 # Usage
 
