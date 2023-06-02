@@ -2,6 +2,9 @@
 
 This repo provides to convert all images to webp format. This script check the current folders and subfolders. Webp files converted where the same path and the same name.
 
+> You have to already install the "webp" in your machine for use the script.
+> You may check the [link](https://developers.google.com/speed/webp/docs/precompiled)  If not installed the webp.
+
 # Usage
 
 - Download the sh file to parent images folder.
